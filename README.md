@@ -50,8 +50,5 @@ pip install pygame
 ## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
 
-## License
-This project is open-source. Please check the LICENSE file for details.
 
-## Created
-Last updated: January 2025
+
